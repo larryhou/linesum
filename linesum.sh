@@ -10,7 +10,7 @@ fi
 type=$2
 if [ "${type}" = "" ]
 then
-	type=m
+	type=swift
 fi
 output=${dir}/linesum.txt
 
